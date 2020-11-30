@@ -1,4 +1,4 @@
-###Resilience4J Tutorial Series
+### Resilience4J Tutorial Series
 This houses the tutorial series on resilience4j framework. Resilience4J has the following modules
 1. Circuit Breaker
 2. Bulkhead
